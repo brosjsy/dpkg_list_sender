@@ -1,1 +1,2 @@
-# dpkg_list_sender
+send list deb packages to remote server
+
